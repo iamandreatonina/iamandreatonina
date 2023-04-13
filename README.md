@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Curently studyin Quantitative and Computational Biology at the University of Trento 
+Currently stundent in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
