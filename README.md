@@ -20,4 +20,4 @@ Currently stundent in Quantitative and Computational Biology at the University o
 ![github](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=#181717&logoColor=white)
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=GitHub&logoColor=white)]
