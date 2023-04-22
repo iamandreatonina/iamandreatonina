@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 Currently stundent in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
 
 
-![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=iamandreatonina&count_private=true&show_icons=true&theme=radical&hide_rank=false) 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreatonina)
+![Andrea's github stats](https://github-readme-stats.vercel.app/api?username=iamandreatonina&count_private=true&show_icons=true&theme=radical&hide_rank=false)          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamandreatonina)
+  
