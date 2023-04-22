@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 Currently stundent in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/iamandreatonina/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamandreatonina&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/iamandreatonina/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iamandreatonina&repo=convoychat" />
 </a>
