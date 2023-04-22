@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Currently stundent in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=Blilu&logoColor=white)]
+![github](https://img.shields.io/badge/bliblu-000000?style=for-the-badge&logo=Blilu&logoColor=white)]
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=plastic&logo=GitHub&logoColor=white)]
