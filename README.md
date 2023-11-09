@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently stundent in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
+Currently student in Quantitative and Computational Biology at the University of Trento 📊 💻 🧬
 
